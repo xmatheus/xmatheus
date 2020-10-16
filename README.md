@@ -19,4 +19,3 @@
 
 ![](https://img.shields.io/badge/instagram-matheus.ftc-green?style=for-the-badge)
 
-![](https://img.shields.io/badge/youtube-Matheus%20Felipe-red?style=for-the-badge)
