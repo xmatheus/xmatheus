@@ -9,7 +9,7 @@
 
 - I'am front-end and back-end developer
 - I practice calisthenics
-- student of computer science
+- student of computer science on UFMT
 - i like of Reactjs, Nodejs and React-Native, HTML, CSS e Js
 ---
 
