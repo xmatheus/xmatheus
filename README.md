@@ -19,3 +19,5 @@
 
 ![](https://img.shields.io/badge/instagram-matheus.ftc-green?style=for-the-badge)
 
+ <a href="https://instagram.com/matheus.ftc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@matheus.ftc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/matheus.ftc/" alt="Instagram Badge"></a>
+
