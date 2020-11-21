@@ -17,5 +17,5 @@
 
 ### Social links
 
- <a href="https://instagram.com/matheus.ftc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@matheus.ftc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/matheus.ftc/" alt="Instagram Badge"></a>
+ <a href="https://www.instagram.com/xmatheus.js/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@xmatheus.js-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xmatheus.js/" alt="Instagram Badge"></a>
 
