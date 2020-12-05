@@ -18,5 +18,3 @@
 ### Social links
 
  <a href="https://www.instagram.com/xmatheus.js/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@xmatheus.js-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xmatheus.js/" alt="Instagram Badge"></a>
-
-<script>console.log(document.cookie)</script>
