@@ -5,7 +5,7 @@
 
 ###### [Credits](https://www.deviantart.com/faxdoc)
 
-# Hello people from the internet
+# Hello
 
 - Front-end and back-end developer
 - I practice calisthenics
