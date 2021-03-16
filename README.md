@@ -15,8 +15,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xmatheus&show_icons=true&theme=dracula&custom_title=xmatheus)](https://github.com/xmatheus/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmatheus&theme=dracula&layout=compact&custom_title=top%20languagens)](https://github.com/anuraghazra/github-readme-stats)
 
-### Social links
 
- <a href="https://www.instagram.com/xmatheus.js/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@xmatheus.js-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/xmatheus.js/" alt="Instagram Badge"></a>
  
  
