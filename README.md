@@ -10,7 +10,7 @@
 - Front-end and back-end developer
 - I practice calisthenics
 - Student of computer science on UFMT
-- I like of Reactjs, Nodejs and React-Native, HTML, CSS e Js
+- I like Javascript, C and Python
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xmatheus&show_icons=true&theme=dracula&custom_title=xmatheus)](https://github.com/xmatheus/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmatheus&theme=dracula&layout=compact&custom_title=top%20languagens)](https://github.com/anuraghazra/github-readme-stats)
