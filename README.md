@@ -9,8 +9,6 @@
 - I like Javascript, C, Python, React, Nodejs, Nextjs, SEO and much more.
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmatheus&theme=dracula&layout=compact&custom_title=top%20languagens)](https://github.com/anuraghazra/github-readme-stats)
-
 
  
  
