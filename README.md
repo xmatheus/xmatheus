@@ -5,7 +5,7 @@
 - Brazilian. 24y.
 - Full-stack developer
 - UI/UX
-- Student of computer science at Federal University Of Mato Grosso
+- Computer Science graduate
 - I like Javascript, C, Python, React, Nodejs, Nextjs, SEO and much more.
 ---
 
